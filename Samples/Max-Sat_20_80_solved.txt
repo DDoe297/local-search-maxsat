@@ -1,0 +1,3 @@
+Tabu Search: [False, True, False, False, False, False, True, True, False, False, True, True, False, False, False, True, True, True, False, False], Number of satisfied clauses: 80
+Stochastic Hill Climbing: [False, True, True, True, True, True, False, False, True, False, True, False, True, True, False, False, True, True, True, True], Number of satisfied clauses: 80
+Simulated Annealing: [True, True, False, False, False, False, True, True, False, False, True, True, False, False, False, True, True, True, False, False], Number of satisfied clauses: 80
